@@ -1,0 +1,8 @@
+name: DeathLog
+author: Gnaris
+version: 1.0
+main: fr.gnaris.main.Main
+commands:
+  dl:
+  viewname:
+    permission: valient.checkusername.use
